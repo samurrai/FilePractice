@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\FilePractice\FilePractice\bin\Debug\FilePractice.exe.config
+C:\Users\User\source\repos\FilePractice\FilePractice\bin\Debug\FilePractice.exe
+C:\Users\User\source\repos\FilePractice\FilePractice\bin\Debug\FilePractice.pdb
+C:\Users\User\source\repos\FilePractice\FilePractice\obj\Debug\FilePractice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FilePractice\FilePractice\obj\Debug\FilePractice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FilePractice\FilePractice\obj\Debug\FilePractice.exe
+C:\Users\User\source\repos\FilePractice\FilePractice\obj\Debug\FilePractice.pdb
